@@ -1,0 +1,7 @@
+/node_modules
+/playground
+/public
+/uploads
+.env
+connection.js
+mongo.js
